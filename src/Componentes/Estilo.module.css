@@ -1,0 +1,40 @@
+h1 {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    background: red;
+    color: white;
+    font-weight: bold;
+    box-shadow: grey 2px 2px 2px 2px;
+
+}
+
+img{
+    width: 200px;
+    margin: 5px;
+}
+a{
+    text-decoration: none;
+}
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.grilla{
+    width: 250px;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    background: chocolate;
+    border: solid black 1px;
+}
+.grilla:hover{
+    background: coral;
+    color: white;
+    box-shadow: grey 3px 3px 3px 3px;
+}
