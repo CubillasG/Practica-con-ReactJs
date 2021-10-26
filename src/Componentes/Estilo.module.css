@@ -38,3 +38,6 @@ ul{
     color: white;
     box-shadow: grey 3px 3px 3px 3px;
 }
+.title{
+    text-decoration: none;
+}
